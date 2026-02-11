@@ -1,0 +1,1029 @@
+{
+  "meta": {
+    "title": "South Korea National Population Projections 2024–2060",
+    "methodology": "Simplified cohort-component (illustrative scenarios only)",
+    "base_year": 2024,
+    "base_population": 51700000,
+    "disclaimer": "Not actuarial forecasts. For policy discussion only."
+  },
+  "data": [
+    {
+      "year": 2024,
+      "population_M": 50.91,
+      "elderly_pct": 20.1,
+      "working_age_pct": 62.0,
+      "dependency_ratio": 61.3,
+      "tfr_assumed": 0.68,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2025,
+      "population_M": 50.13,
+      "elderly_pct": 21.0,
+      "working_age_pct": 61.6,
+      "dependency_ratio": 62.3,
+      "tfr_assumed": 0.68,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2026,
+      "population_M": 49.36,
+      "elderly_pct": 21.9,
+      "working_age_pct": 61.2,
+      "dependency_ratio": 63.4,
+      "tfr_assumed": 0.69,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2027,
+      "population_M": 48.6,
+      "elderly_pct": 22.8,
+      "working_age_pct": 60.8,
+      "dependency_ratio": 64.5,
+      "tfr_assumed": 0.69,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2028,
+      "population_M": 47.86,
+      "elderly_pct": 23.7,
+      "working_age_pct": 60.4,
+      "dependency_ratio": 65.6,
+      "tfr_assumed": 0.69,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2029,
+      "population_M": 47.13,
+      "elderly_pct": 24.6,
+      "working_age_pct": 60.0,
+      "dependency_ratio": 66.7,
+      "tfr_assumed": 0.7,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2030,
+      "population_M": 46.41,
+      "elderly_pct": 25.5,
+      "working_age_pct": 59.6,
+      "dependency_ratio": 67.8,
+      "tfr_assumed": 0.7,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2031,
+      "population_M": 45.71,
+      "elderly_pct": 26.3,
+      "working_age_pct": 59.2,
+      "dependency_ratio": 68.9,
+      "tfr_assumed": 0.7,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2032,
+      "population_M": 45.02,
+      "elderly_pct": 27.2,
+      "working_age_pct": 58.8,
+      "dependency_ratio": 70.1,
+      "tfr_assumed": 0.7,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2033,
+      "population_M": 44.33,
+      "elderly_pct": 28.1,
+      "working_age_pct": 58.4,
+      "dependency_ratio": 71.2,
+      "tfr_assumed": 0.71,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2034,
+      "population_M": 43.66,
+      "elderly_pct": 29.0,
+      "working_age_pct": 58.0,
+      "dependency_ratio": 72.4,
+      "tfr_assumed": 0.71,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2035,
+      "population_M": 43.0,
+      "elderly_pct": 29.9,
+      "working_age_pct": 57.6,
+      "dependency_ratio": 73.6,
+      "tfr_assumed": 0.71,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2036,
+      "population_M": 42.36,
+      "elderly_pct": 30.8,
+      "working_age_pct": 57.2,
+      "dependency_ratio": 74.8,
+      "tfr_assumed": 0.72,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2037,
+      "population_M": 41.72,
+      "elderly_pct": 31.7,
+      "working_age_pct": 56.8,
+      "dependency_ratio": 76.1,
+      "tfr_assumed": 0.72,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2038,
+      "population_M": 41.09,
+      "elderly_pct": 32.5,
+      "working_age_pct": 56.4,
+      "dependency_ratio": 77.3,
+      "tfr_assumed": 0.72,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2039,
+      "population_M": 40.48,
+      "elderly_pct": 33.4,
+      "working_age_pct": 56.0,
+      "dependency_ratio": 78.6,
+      "tfr_assumed": 0.73,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2040,
+      "population_M": 39.87,
+      "elderly_pct": 34.3,
+      "working_age_pct": 55.6,
+      "dependency_ratio": 79.9,
+      "tfr_assumed": 0.73,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2041,
+      "population_M": 39.27,
+      "elderly_pct": 35.2,
+      "working_age_pct": 55.2,
+      "dependency_ratio": 81.2,
+      "tfr_assumed": 0.73,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2042,
+      "population_M": 38.69,
+      "elderly_pct": 36.1,
+      "working_age_pct": 54.8,
+      "dependency_ratio": 82.5,
+      "tfr_assumed": 0.73,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2043,
+      "population_M": 38.11,
+      "elderly_pct": 36.9,
+      "working_age_pct": 54.4,
+      "dependency_ratio": 83.8,
+      "tfr_assumed": 0.74,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2044,
+      "population_M": 37.54,
+      "elderly_pct": 37.8,
+      "working_age_pct": 54.0,
+      "dependency_ratio": 85.2,
+      "tfr_assumed": 0.74,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2045,
+      "population_M": 36.99,
+      "elderly_pct": 38.7,
+      "working_age_pct": 53.6,
+      "dependency_ratio": 86.6,
+      "tfr_assumed": 0.74,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2046,
+      "population_M": 36.44,
+      "elderly_pct": 39.6,
+      "working_age_pct": 53.2,
+      "dependency_ratio": 88.0,
+      "tfr_assumed": 0.75,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2047,
+      "population_M": 35.9,
+      "elderly_pct": 40.5,
+      "working_age_pct": 52.8,
+      "dependency_ratio": 89.4,
+      "tfr_assumed": 0.75,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2048,
+      "population_M": 35.37,
+      "elderly_pct": 41.3,
+      "working_age_pct": 52.4,
+      "dependency_ratio": 90.8,
+      "tfr_assumed": 0.75,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2049,
+      "population_M": 34.85,
+      "elderly_pct": 42.2,
+      "working_age_pct": 52.0,
+      "dependency_ratio": 92.3,
+      "tfr_assumed": 0.76,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2050,
+      "population_M": 34.33,
+      "elderly_pct": 43.1,
+      "working_age_pct": 51.6,
+      "dependency_ratio": 93.8,
+      "tfr_assumed": 0.76,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2051,
+      "population_M": 33.83,
+      "elderly_pct": 43.9,
+      "working_age_pct": 51.2,
+      "dependency_ratio": 95.3,
+      "tfr_assumed": 0.76,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2052,
+      "population_M": 33.33,
+      "elderly_pct": 44.8,
+      "working_age_pct": 50.8,
+      "dependency_ratio": 96.9,
+      "tfr_assumed": 0.76,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2053,
+      "population_M": 32.84,
+      "elderly_pct": 45.7,
+      "working_age_pct": 50.4,
+      "dependency_ratio": 98.4,
+      "tfr_assumed": 0.77,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2054,
+      "population_M": 32.36,
+      "elderly_pct": 46.6,
+      "working_age_pct": 50.0,
+      "dependency_ratio": 100.0,
+      "tfr_assumed": 0.77,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2055,
+      "population_M": 31.89,
+      "elderly_pct": 47.4,
+      "working_age_pct": 49.6,
+      "dependency_ratio": 101.6,
+      "tfr_assumed": 0.77,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2056,
+      "population_M": 31.42,
+      "elderly_pct": 48.3,
+      "working_age_pct": 49.2,
+      "dependency_ratio": 103.3,
+      "tfr_assumed": 0.78,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2057,
+      "population_M": 30.96,
+      "elderly_pct": 49.2,
+      "working_age_pct": 48.8,
+      "dependency_ratio": 104.9,
+      "tfr_assumed": 0.78,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2058,
+      "population_M": 30.51,
+      "elderly_pct": 50.0,
+      "working_age_pct": 48.4,
+      "dependency_ratio": 106.6,
+      "tfr_assumed": 0.78,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2059,
+      "population_M": 30.07,
+      "elderly_pct": 50.0,
+      "working_age_pct": 48.0,
+      "dependency_ratio": 108.3,
+      "tfr_assumed": 0.79,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2060,
+      "population_M": 29.64,
+      "elderly_pct": 50.0,
+      "working_age_pct": 47.6,
+      "dependency_ratio": 110.1,
+      "tfr_assumed": 0.79,
+      "scenario": "Baseline"
+    },
+    {
+      "year": 2024,
+      "population_M": 50.91,
+      "elderly_pct": 20.1,
+      "working_age_pct": 62.0,
+      "dependency_ratio": 61.3,
+      "tfr_assumed": 0.68,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2025,
+      "population_M": 50.12,
+      "elderly_pct": 21.0,
+      "working_age_pct": 61.6,
+      "dependency_ratio": 62.3,
+      "tfr_assumed": 0.68,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2026,
+      "population_M": 49.35,
+      "elderly_pct": 21.9,
+      "working_age_pct": 61.2,
+      "dependency_ratio": 63.4,
+      "tfr_assumed": 0.68,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2027,
+      "population_M": 48.6,
+      "elderly_pct": 22.8,
+      "working_age_pct": 60.8,
+      "dependency_ratio": 64.5,
+      "tfr_assumed": 0.68,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2028,
+      "population_M": 47.86,
+      "elderly_pct": 23.7,
+      "working_age_pct": 60.4,
+      "dependency_ratio": 65.6,
+      "tfr_assumed": 0.7,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2029,
+      "population_M": 47.14,
+      "elderly_pct": 24.6,
+      "working_age_pct": 60.0,
+      "dependency_ratio": 66.7,
+      "tfr_assumed": 0.72,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2030,
+      "population_M": 46.44,
+      "elderly_pct": 25.4,
+      "working_age_pct": 59.6,
+      "dependency_ratio": 67.8,
+      "tfr_assumed": 0.74,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2031,
+      "population_M": 45.75,
+      "elderly_pct": 26.3,
+      "working_age_pct": 59.2,
+      "dependency_ratio": 68.9,
+      "tfr_assumed": 0.76,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2032,
+      "population_M": 45.09,
+      "elderly_pct": 27.2,
+      "working_age_pct": 58.8,
+      "dependency_ratio": 70.1,
+      "tfr_assumed": 0.78,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2033,
+      "population_M": 44.44,
+      "elderly_pct": 28.0,
+      "working_age_pct": 58.4,
+      "dependency_ratio": 71.2,
+      "tfr_assumed": 0.8,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2034,
+      "population_M": 43.8,
+      "elderly_pct": 28.9,
+      "working_age_pct": 58.0,
+      "dependency_ratio": 72.4,
+      "tfr_assumed": 0.82,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2035,
+      "population_M": 43.19,
+      "elderly_pct": 29.7,
+      "working_age_pct": 57.6,
+      "dependency_ratio": 73.6,
+      "tfr_assumed": 0.84,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2036,
+      "population_M": 42.59,
+      "elderly_pct": 30.6,
+      "working_age_pct": 57.2,
+      "dependency_ratio": 74.8,
+      "tfr_assumed": 0.86,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2037,
+      "population_M": 42.0,
+      "elderly_pct": 31.4,
+      "working_age_pct": 56.8,
+      "dependency_ratio": 76.1,
+      "tfr_assumed": 0.88,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2038,
+      "population_M": 41.43,
+      "elderly_pct": 32.2,
+      "working_age_pct": 56.4,
+      "dependency_ratio": 77.3,
+      "tfr_assumed": 0.9,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2039,
+      "population_M": 40.87,
+      "elderly_pct": 33.1,
+      "working_age_pct": 56.0,
+      "dependency_ratio": 78.6,
+      "tfr_assumed": 0.92,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2040,
+      "population_M": 40.33,
+      "elderly_pct": 33.9,
+      "working_age_pct": 55.6,
+      "dependency_ratio": 79.9,
+      "tfr_assumed": 0.94,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2041,
+      "population_M": 39.8,
+      "elderly_pct": 34.7,
+      "working_age_pct": 55.2,
+      "dependency_ratio": 81.2,
+      "tfr_assumed": 0.96,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2042,
+      "population_M": 39.28,
+      "elderly_pct": 35.5,
+      "working_age_pct": 54.8,
+      "dependency_ratio": 82.5,
+      "tfr_assumed": 0.98,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2043,
+      "population_M": 38.78,
+      "elderly_pct": 36.3,
+      "working_age_pct": 54.4,
+      "dependency_ratio": 83.8,
+      "tfr_assumed": 1.0,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2044,
+      "population_M": 38.29,
+      "elderly_pct": 37.1,
+      "working_age_pct": 54.0,
+      "dependency_ratio": 85.2,
+      "tfr_assumed": 1.02,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2045,
+      "population_M": 37.81,
+      "elderly_pct": 37.9,
+      "working_age_pct": 53.6,
+      "dependency_ratio": 86.6,
+      "tfr_assumed": 1.04,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2046,
+      "population_M": 37.35,
+      "elderly_pct": 38.7,
+      "working_age_pct": 53.2,
+      "dependency_ratio": 88.0,
+      "tfr_assumed": 1.06,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2047,
+      "population_M": 36.89,
+      "elderly_pct": 39.5,
+      "working_age_pct": 52.8,
+      "dependency_ratio": 89.4,
+      "tfr_assumed": 1.08,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2048,
+      "population_M": 36.45,
+      "elderly_pct": 40.3,
+      "working_age_pct": 52.4,
+      "dependency_ratio": 90.8,
+      "tfr_assumed": 1.1,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2049,
+      "population_M": 36.02,
+      "elderly_pct": 41.1,
+      "working_age_pct": 52.0,
+      "dependency_ratio": 92.3,
+      "tfr_assumed": 1.12,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2050,
+      "population_M": 35.6,
+      "elderly_pct": 41.9,
+      "working_age_pct": 51.6,
+      "dependency_ratio": 93.8,
+      "tfr_assumed": 1.14,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2051,
+      "population_M": 35.19,
+      "elderly_pct": 42.7,
+      "working_age_pct": 51.2,
+      "dependency_ratio": 95.3,
+      "tfr_assumed": 1.16,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2052,
+      "population_M": 34.79,
+      "elderly_pct": 43.5,
+      "working_age_pct": 50.8,
+      "dependency_ratio": 96.9,
+      "tfr_assumed": 1.18,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2053,
+      "population_M": 34.4,
+      "elderly_pct": 44.3,
+      "working_age_pct": 50.4,
+      "dependency_ratio": 98.4,
+      "tfr_assumed": 1.2,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2054,
+      "population_M": 34.02,
+      "elderly_pct": 45.1,
+      "working_age_pct": 50.0,
+      "dependency_ratio": 100.0,
+      "tfr_assumed": 1.22,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2055,
+      "population_M": 33.65,
+      "elderly_pct": 45.9,
+      "working_age_pct": 49.6,
+      "dependency_ratio": 101.6,
+      "tfr_assumed": 1.24,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2056,
+      "population_M": 33.29,
+      "elderly_pct": 46.7,
+      "working_age_pct": 49.2,
+      "dependency_ratio": 103.3,
+      "tfr_assumed": 1.26,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2057,
+      "population_M": 32.94,
+      "elderly_pct": 47.5,
+      "working_age_pct": 48.8,
+      "dependency_ratio": 104.9,
+      "tfr_assumed": 1.28,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2058,
+      "population_M": 32.59,
+      "elderly_pct": 48.3,
+      "working_age_pct": 48.4,
+      "dependency_ratio": 106.6,
+      "tfr_assumed": 1.3,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2059,
+      "population_M": 32.26,
+      "elderly_pct": 49.1,
+      "working_age_pct": 48.0,
+      "dependency_ratio": 108.3,
+      "tfr_assumed": 1.3,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2060,
+      "population_M": 31.92,
+      "elderly_pct": 49.9,
+      "working_age_pct": 47.6,
+      "dependency_ratio": 110.1,
+      "tfr_assumed": 1.3,
+      "scenario": "Moderate Recovery"
+    },
+    {
+      "year": 2024,
+      "population_M": 50.91,
+      "elderly_pct": 20.1,
+      "working_age_pct": 62.0,
+      "dependency_ratio": 61.3,
+      "tfr_assumed": 0.68,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2025,
+      "population_M": 50.12,
+      "elderly_pct": 21.0,
+      "working_age_pct": 61.6,
+      "dependency_ratio": 62.3,
+      "tfr_assumed": 0.68,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2026,
+      "population_M": 49.35,
+      "elderly_pct": 21.9,
+      "working_age_pct": 61.2,
+      "dependency_ratio": 63.4,
+      "tfr_assumed": 0.68,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2027,
+      "population_M": 48.61,
+      "elderly_pct": 22.8,
+      "working_age_pct": 60.8,
+      "dependency_ratio": 64.5,
+      "tfr_assumed": 0.72,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2028,
+      "population_M": 47.89,
+      "elderly_pct": 23.6,
+      "working_age_pct": 60.4,
+      "dependency_ratio": 65.6,
+      "tfr_assumed": 0.75,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2029,
+      "population_M": 47.2,
+      "elderly_pct": 24.5,
+      "working_age_pct": 60.0,
+      "dependency_ratio": 66.7,
+      "tfr_assumed": 0.79,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2030,
+      "population_M": 46.52,
+      "elderly_pct": 25.4,
+      "working_age_pct": 59.6,
+      "dependency_ratio": 67.8,
+      "tfr_assumed": 0.82,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2031,
+      "population_M": 45.87,
+      "elderly_pct": 26.2,
+      "working_age_pct": 59.2,
+      "dependency_ratio": 68.9,
+      "tfr_assumed": 0.86,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2032,
+      "population_M": 45.25,
+      "elderly_pct": 27.0,
+      "working_age_pct": 58.8,
+      "dependency_ratio": 70.1,
+      "tfr_assumed": 0.89,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2033,
+      "population_M": 44.64,
+      "elderly_pct": 27.9,
+      "working_age_pct": 58.4,
+      "dependency_ratio": 71.2,
+      "tfr_assumed": 0.93,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2034,
+      "population_M": 44.05,
+      "elderly_pct": 28.7,
+      "working_age_pct": 58.0,
+      "dependency_ratio": 72.4,
+      "tfr_assumed": 0.96,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2035,
+      "population_M": 43.49,
+      "elderly_pct": 29.5,
+      "working_age_pct": 57.6,
+      "dependency_ratio": 73.6,
+      "tfr_assumed": 1.0,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2036,
+      "population_M": 42.94,
+      "elderly_pct": 30.3,
+      "working_age_pct": 57.2,
+      "dependency_ratio": 74.8,
+      "tfr_assumed": 1.03,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2037,
+      "population_M": 42.41,
+      "elderly_pct": 31.1,
+      "working_age_pct": 56.8,
+      "dependency_ratio": 76.1,
+      "tfr_assumed": 1.06,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2038,
+      "population_M": 41.91,
+      "elderly_pct": 31.9,
+      "working_age_pct": 56.4,
+      "dependency_ratio": 77.3,
+      "tfr_assumed": 1.1,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2039,
+      "population_M": 41.41,
+      "elderly_pct": 32.7,
+      "working_age_pct": 56.0,
+      "dependency_ratio": 78.6,
+      "tfr_assumed": 1.14,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2040,
+      "population_M": 40.94,
+      "elderly_pct": 33.5,
+      "working_age_pct": 55.6,
+      "dependency_ratio": 79.9,
+      "tfr_assumed": 1.17,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2041,
+      "population_M": 40.48,
+      "elderly_pct": 34.3,
+      "working_age_pct": 55.2,
+      "dependency_ratio": 81.2,
+      "tfr_assumed": 1.21,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2042,
+      "population_M": 40.04,
+      "elderly_pct": 35.1,
+      "working_age_pct": 54.8,
+      "dependency_ratio": 82.5,
+      "tfr_assumed": 1.24,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2043,
+      "population_M": 39.62,
+      "elderly_pct": 35.9,
+      "working_age_pct": 54.4,
+      "dependency_ratio": 83.8,
+      "tfr_assumed": 1.28,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2044,
+      "population_M": 39.21,
+      "elderly_pct": 36.7,
+      "working_age_pct": 54.0,
+      "dependency_ratio": 85.2,
+      "tfr_assumed": 1.31,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2045,
+      "population_M": 38.82,
+      "elderly_pct": 37.5,
+      "working_age_pct": 53.6,
+      "dependency_ratio": 86.6,
+      "tfr_assumed": 1.35,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2046,
+      "population_M": 38.44,
+      "elderly_pct": 38.3,
+      "working_age_pct": 53.2,
+      "dependency_ratio": 88.0,
+      "tfr_assumed": 1.38,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2047,
+      "population_M": 38.07,
+      "elderly_pct": 39.1,
+      "working_age_pct": 52.8,
+      "dependency_ratio": 89.4,
+      "tfr_assumed": 1.42,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2048,
+      "population_M": 37.72,
+      "elderly_pct": 39.9,
+      "working_age_pct": 52.4,
+      "dependency_ratio": 90.8,
+      "tfr_assumed": 1.45,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2049,
+      "population_M": 37.39,
+      "elderly_pct": 40.7,
+      "working_age_pct": 52.0,
+      "dependency_ratio": 92.3,
+      "tfr_assumed": 1.49,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2050,
+      "population_M": 37.06,
+      "elderly_pct": 41.5,
+      "working_age_pct": 51.6,
+      "dependency_ratio": 93.8,
+      "tfr_assumed": 1.52,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2051,
+      "population_M": 36.75,
+      "elderly_pct": 42.3,
+      "working_age_pct": 51.2,
+      "dependency_ratio": 95.3,
+      "tfr_assumed": 1.56,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2052,
+      "population_M": 36.46,
+      "elderly_pct": 43.1,
+      "working_age_pct": 50.8,
+      "dependency_ratio": 96.9,
+      "tfr_assumed": 1.59,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2053,
+      "population_M": 36.17,
+      "elderly_pct": 43.9,
+      "working_age_pct": 50.4,
+      "dependency_ratio": 98.4,
+      "tfr_assumed": 1.62,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2054,
+      "population_M": 35.9,
+      "elderly_pct": 44.7,
+      "working_age_pct": 50.0,
+      "dependency_ratio": 100.0,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2055,
+      "population_M": 35.62,
+      "elderly_pct": 45.5,
+      "working_age_pct": 49.6,
+      "dependency_ratio": 101.6,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2056,
+      "population_M": 35.35,
+      "elderly_pct": 46.3,
+      "working_age_pct": 49.2,
+      "dependency_ratio": 103.3,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2057,
+      "population_M": 35.09,
+      "elderly_pct": 47.1,
+      "working_age_pct": 48.8,
+      "dependency_ratio": 104.9,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2058,
+      "population_M": 34.82,
+      "elderly_pct": 47.9,
+      "working_age_pct": 48.4,
+      "dependency_ratio": 106.6,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2059,
+      "population_M": 34.55,
+      "elderly_pct": 48.7,
+      "working_age_pct": 48.0,
+      "dependency_ratio": 108.3,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    },
+    {
+      "year": 2060,
+      "population_M": 34.29,
+      "elderly_pct": 49.5,
+      "working_age_pct": 47.6,
+      "dependency_ratio": 110.1,
+      "tfr_assumed": 1.65,
+      "scenario": "Structural Reform"
+    }
+  ],
+  "scenarios_desc": {
+    "Baseline": "TFR stays near 0.68–0.85. No substantive policy change.",
+    "Moderate Recovery": "Targeted interventions 2027+. TFR reaches 1.30 by ~2040.",
+    "Structural Reform": "Comprehensive housing, labour & cultural reform. TFR reaches 1.65 by ~2040."
+  },
+  "summary_2060": {
+    "Baseline": {
+      "pop_M": 37.8,
+      "elderly_pct": 47.8
+    },
+    "Moderate Recovery": {
+      "pop_M": 43.2,
+      "elderly_pct": 41.5
+    },
+    "Structural Reform": {
+      "pop_M": 47.0,
+      "elderly_pct": 37.1
+    }
+  }
+}

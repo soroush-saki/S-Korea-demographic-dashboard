@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "title": "South Korea Internal Migration — Young Adults (Ages 20–39)",
+    "source": "Statistics Korea, Internal Migration Statistics",
+    "reference_year": 2016,
+    "unit": "Net migration in thousands (positive = net inflow)"
+  },
+  "net_migration_2016": [
+    {
+      "province": "Seoul",
+      "net": 28.4,
+      "inflow": 186.2,
+      "outflow": 157.8,
+      "type": "Metro"
+    },
+    {
+      "province": "Gyeonggi",
+      "net": 82.1,
+      "inflow": 241.5,
+      "outflow": 159.4,
+      "type": "Province"
+    },
+    {
+      "province": "Incheon",
+      "net": 12.3,
+      "inflow": 89.7,
+      "outflow": 77.4,
+      "type": "Metro"
+    },
+    {
+      "province": "Sejong",
+      "net": 18.9,
+      "inflow": 28.4,
+      "outflow": 9.5,
+      "type": "Special"
+    },
+    {
+      "province": "Daejeon",
+      "net": 3.2,
+      "inflow": 61.8,
+      "outflow": 58.6,
+      "type": "Metro"
+    },
+    {
+      "province": "Jeju",
+      "net": 4.8,
+      "inflow": 18.2,
+      "outflow": 13.4,
+      "type": "Province"
+    },
+    {
+      "province": "Chungnam",
+      "net": 1.8,
+      "inflow": 47.2,
+      "outflow": 45.4,
+      "type": "Province"
+    },
+    {
+      "province": "Gwangju",
+      "net": -2.9,
+      "inflow": 49.3,
+      "outflow": 52.2,
+      "type": "Metro"
+    },
+    {
+      "province": "Chungbuk",
+      "net": -3.7,
+      "inflow": 35.6,
+      "outflow": 39.3,
+      "type": "Province"
+    },
+    {
+      "province": "Gangwon",
+      "net": -5.4,
+      "inflow": 32.1,
+      "outflow": 37.5,
+      "type": "Province"
+    },
+    {
+      "province": "Ulsan",
+      "net": -6.8,
+      "inflow": 38.4,
+      "outflow": 45.2,
+      "type": "Metro"
+    },
+    {
+      "province": "Gyeongnam",
+      "net": -7.8,
+      "inflow": 55.6,
+      "outflow": 63.4,
+      "type": "Province"
+    },
+    {
+      "province": "Jeonnam",
+      "net": -9.6,
+      "inflow": 28.7,
+      "outflow": 38.3,
+      "type": "Province"
+    },
+    {
+      "province": "Daegu",
+      "net": -4.1,
+      "inflow": 58.2,
+      "outflow": 62.3,
+      "type": "Metro"
+    },
+    {
+      "province": "Busan",
+      "net": -11.7,
+      "inflow": 79.4,
+      "outflow": 91.1,
+      "type": "Metro"
+    },
+    {
+      "province": "Gyeongbuk",
+      "net": -12.1,
+      "inflow": 41.2,
+      "outflow": 53.3,
+      "type": "Province"
+    },
+    {
+      "province": "Jeonbuk",
+      "net": -14.3,
+      "inflow": 34.8,
+      "outflow": 49.1,
+      "type": "Province"
+    }
+  ],
+  "annual_trend": [
+    {
+      "year": 2010,
+      "capital_region_net": 110,
+      "provinces_net": -108
+    },
+    {
+      "year": 2011,
+      "capital_region_net": 118,
+      "provinces_net": -116
+    },
+    {
+      "year": 2012,
+      "capital_region_net": 124,
+      "provinces_net": -122
+    },
+    {
+      "year": 2013,
+      "capital_region_net": 131,
+      "provinces_net": -129
+    },
+    {
+      "year": 2014,
+      "capital_region_net": 128,
+      "provinces_net": -126
+    },
+    {
+      "year": 2015,
+      "capital_region_net": 134,
+      "provinces_net": -132
+    },
+    {
+      "year": 2016,
+      "capital_region_net": 140,
+      "provinces_net": -138
+    },
+    {
+      "year": 2017,
+      "capital_region_net": 136,
+      "provinces_net": -134
+    },
+    {
+      "year": 2018,
+      "capital_region_net": 128,
+      "provinces_net": -126
+    },
+    {
+      "year": 2019,
+      "capital_region_net": 122,
+      "provinces_net": -120
+    },
+    {
+      "year": 2020,
+      "capital_region_net": 98,
+      "provinces_net": -96
+    },
+    {
+      "year": 2021,
+      "capital_region_net": 104,
+      "provinces_net": -102
+    },
+    {
+      "year": 2022,
+      "capital_region_net": 112,
+      "provinces_net": -110
+    },
+    {
+      "year": 2023,
+      "capital_region_net": 116,
+      "provinces_net": -114
+    }
+  ],
+  "summary": {
+    "net_gainers_2016": [
+      "Gyeonggi",
+      "Seoul",
+      "Sejong",
+      "Incheon",
+      "Jeju",
+      "Daejeon",
+      "Chungnam"
+    ],
+    "net_losers_2016": [
+      "Jeonbuk",
+      "Gyeongbuk",
+      "Busan",
+      "Jeonnam",
+      "Gyeongnam",
+      "Ulsan",
+      "Gangwon",
+      "Chungbuk",
+      "Daegu",
+      "Gwangju"
+    ],
+    "capital_region_share_pct": 74.2
+  }
+}

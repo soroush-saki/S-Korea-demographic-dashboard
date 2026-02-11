@@ -1,0 +1,375 @@
+{
+  "meta": {
+    "title": "South Korea National Fertility & Demographic Indicators 1984–2024",
+    "source": "Statistics Korea (KOSIS), Vital Statistics Survey",
+    "note": "2024 figures are preliminary/projected"
+  },
+  "data": [
+    {
+      "year": 1984,
+      "tfr": 2.1,
+      "births": 674793,
+      "marriages": 430000,
+      "elderly_pct": 4.1,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1985,
+      "tfr": 2.01,
+      "births": 655489,
+      "marriages": 421000,
+      "elderly_pct": 4.3,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1986,
+      "tfr": 1.91,
+      "births": 629234,
+      "marriages": 413000,
+      "elderly_pct": 4.5,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1987,
+      "tfr": 1.75,
+      "births": 623831,
+      "marriages": 409000,
+      "elderly_pct": 4.7,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1988,
+      "tfr": 1.63,
+      "births": 633092,
+      "marriages": 418000,
+      "elderly_pct": 5.0,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1989,
+      "tfr": 1.58,
+      "births": 639431,
+      "marriages": 427000,
+      "elderly_pct": 5.2,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1990,
+      "tfr": 1.59,
+      "births": 649738,
+      "marriages": 399000,
+      "elderly_pct": 5.4,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1991,
+      "tfr": 1.71,
+      "births": 709275,
+      "marriages": 417000,
+      "elderly_pct": 5.6,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1992,
+      "tfr": 1.78,
+      "births": 730678,
+      "marriages": 419000,
+      "elderly_pct": 5.8,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1993,
+      "tfr": 1.67,
+      "births": 716157,
+      "marriages": 402000,
+      "elderly_pct": 6.1,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1994,
+      "tfr": 1.67,
+      "births": 721185,
+      "marriages": 393000,
+      "elderly_pct": 6.3,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1995,
+      "tfr": 1.65,
+      "births": 715020,
+      "marriages": 398000,
+      "elderly_pct": 6.6,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1996,
+      "tfr": 1.66,
+      "births": 691226,
+      "marriages": 434000,
+      "elderly_pct": 6.8,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1997,
+      "tfr": 1.54,
+      "births": 668344,
+      "marriages": 388000,
+      "elderly_pct": 7.1,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1998,
+      "tfr": 1.47,
+      "births": 634790,
+      "marriages": 306000,
+      "elderly_pct": 7.3,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 1999,
+      "tfr": 1.42,
+      "births": 614233,
+      "marriages": 362000,
+      "elderly_pct": 7.6,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 2000,
+      "tfr": 1.47,
+      "births": 634501,
+      "marriages": 334000,
+      "elderly_pct": 7.9,
+      "phase": "pre-crisis"
+    },
+    {
+      "year": 2001,
+      "tfr": 1.31,
+      "births": 554895,
+      "marriages": 320000,
+      "elderly_pct": 8.2,
+      "phase": "phase-1"
+    },
+    {
+      "year": 2002,
+      "tfr": 1.17,
+      "births": 492111,
+      "marriages": 306000,
+      "elderly_pct": 8.5,
+      "phase": "phase-1"
+    },
+    {
+      "year": 2003,
+      "tfr": 1.19,
+      "births": 490543,
+      "marriages": 304000,
+      "elderly_pct": 8.9,
+      "phase": "phase-1"
+    },
+    {
+      "year": 2004,
+      "tfr": 1.16,
+      "births": 476958,
+      "marriages": 311000,
+      "elderly_pct": 9.2,
+      "phase": "phase-1"
+    },
+    {
+      "year": 2005,
+      "tfr": 1.09,
+      "births": 438707,
+      "marriages": 316000,
+      "elderly_pct": 9.6,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2006,
+      "tfr": 1.13,
+      "births": 451759,
+      "marriages": 331000,
+      "elderly_pct": 10.0,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2007,
+      "tfr": 1.26,
+      "births": 496822,
+      "marriages": 344000,
+      "elderly_pct": 10.4,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2008,
+      "tfr": 1.19,
+      "births": 465892,
+      "marriages": 328000,
+      "elderly_pct": 10.8,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2009,
+      "tfr": 1.15,
+      "births": 444849,
+      "marriages": 310000,
+      "elderly_pct": 11.3,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2010,
+      "tfr": 1.23,
+      "births": 470171,
+      "marriages": 326000,
+      "elderly_pct": 11.7,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2011,
+      "tfr": 1.24,
+      "births": 471265,
+      "marriages": 329000,
+      "elderly_pct": 12.2,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2012,
+      "tfr": 1.3,
+      "births": 484550,
+      "marriages": 327000,
+      "elderly_pct": 12.7,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2013,
+      "tfr": 1.19,
+      "births": 436455,
+      "marriages": 323000,
+      "elderly_pct": 13.2,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2014,
+      "tfr": 1.21,
+      "births": 435435,
+      "marriages": 305000,
+      "elderly_pct": 13.7,
+      "phase": "phase-2"
+    },
+    {
+      "year": 2015,
+      "tfr": 1.24,
+      "births": 438420,
+      "marriages": 303000,
+      "elderly_pct": 14.3,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2016,
+      "tfr": 1.17,
+      "births": 406243,
+      "marriages": 282000,
+      "elderly_pct": 14.9,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2017,
+      "tfr": 1.05,
+      "births": 357771,
+      "marriages": 265000,
+      "elderly_pct": 15.7,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2018,
+      "tfr": 0.98,
+      "births": 326822,
+      "marriages": 258000,
+      "elderly_pct": 16.4,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2019,
+      "tfr": 0.92,
+      "births": 302676,
+      "marriages": 240000,
+      "elderly_pct": 17.3,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2020,
+      "tfr": 0.84,
+      "births": 272337,
+      "marriages": 214000,
+      "elderly_pct": 18.2,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2021,
+      "tfr": 0.81,
+      "births": 260562,
+      "marriages": 193000,
+      "elderly_pct": 19.3,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2022,
+      "tfr": 0.78,
+      "births": 249186,
+      "marriages": 192000,
+      "elderly_pct": 20.5,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2023,
+      "tfr": 0.72,
+      "births": 230000,
+      "marriages": 194000,
+      "elderly_pct": 21.8,
+      "phase": "phase-3"
+    },
+    {
+      "year": 2024,
+      "tfr": 0.68,
+      "births": 215000,
+      "marriages": 190000,
+      "elderly_pct": 23.1,
+      "phase": "phase-3"
+    }
+  ],
+  "phases": {
+    "pre-crisis": "1984–2001: Gradual post-replacement decline following industrialisation",
+    "phase-1": "2002–2004: Births dip below 500 000; aftershock of 1997 Asian financial crisis",
+    "phase-2": "2005–2015: Fluctuating plateau; smartphone adoption reshapes social values",
+    "phase-3": "2015–present: Steep structural decline; housing costs, social media, marriage deferral"
+  },
+  "annotations": [
+    {
+      "year": 1984,
+      "label": "Falls below replacement level (2.1)",
+      "tfr": 2.1
+    },
+    {
+      "year": 1998,
+      "label": "Asian financial crisis effect on marriages",
+      "tfr": 1.47
+    },
+    {
+      "year": 2002,
+      "label": "Phase 1: births < 500 000",
+      "tfr": 1.17
+    },
+    {
+      "year": 2010,
+      "label": "Gov't raises max loan ceiling → housing surge",
+      "tfr": 1.23
+    },
+    {
+      "year": 2015,
+      "label": "Phase 3: steep decline begins",
+      "tfr": 1.24
+    },
+    {
+      "year": 2023,
+      "label": "Record low: TFR = 0.72",
+      "tfr": 0.72
+    }
+  ]
+}
