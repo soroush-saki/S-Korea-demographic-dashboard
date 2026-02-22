@@ -1,7 +1,7 @@
 # South Korea Demographic Crisis — National Interactive Dashboard
 
 **Research by Soroush Saki · December 2024**  
-**Live:** `https://soroush-saki.github.io/S-Korea-demographic-dashboard/`
+**Live:** https://soroush-saki.github.io/S-Korea-demographic-dashboard/
 
 ---
 
