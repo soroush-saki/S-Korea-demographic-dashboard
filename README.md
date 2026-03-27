@@ -34,56 +34,8 @@ internal migration patterns, educational system impacts, and long-term populatio
 
 ---
 
-## Quick Start
 
-```bash
-# 1. Clone
-git clone https://github.com/soroush-saki/sk-demographic-dashboard.git
-cd sk-demographic-dashboard
 
-# 2. Generate data
-python scripts/process_data.py
-
-# 3. Preview locally
-python -m http.server 8000
-# → http://localhost:8000
-```
-
-**No npm. No pip installs. No build step.** Python standard library only.
-
----
-
-## Deploy to GitHub Pages
-
-```bash
-git add .
-git commit -m "Deploy national dashboard"
-git push origin main
-# GitHub → Settings → Pages → Source: main / root → Save
-```
-
----
-
-## Repository Structure
-
-```
-sk-demographic-dashboard/
-├── index.html              ← Self-contained dashboard
-├── README.md
-├── .gitignore
-├── data/                   ← Pre-generated JSON (commit these)
-│   ├── national_fertility.json
-│   ├── province_comparison.json
-│   ├── migration_flows.json
-│   ├── education_impact.json
-│   └── projections.json
-├── scripts/
-│   └── process_data.py
-└── docs/
-    └── methodology.md
-```
-
----
 
 ## Data Sources
 
@@ -98,21 +50,6 @@ sk-demographic-dashboard/
 
 ---
 
-## Citation
-
-```
-Saki, S. (2024). South Korea's Demographic Crisis: National Interactive Dashboard.
-GitHub. https://github.com/soroush-saki/sk-demographic-dashboard
-
-@misc{saki2024dashboard,
-  author = {Saki, Soroush},
-  title  = {South Korea's Demographic Crisis: National Interactive Dashboard},
-  year   = {2024},
-  url    = {https://github.com/soroush-saki/sk-demographic-dashboard}
-}
-```
-
----
 
 *Code: MIT License · Data: Statistics Korea and KEDI terms of use*  
 *Soroush Saki · github.com/soroush-saki*
